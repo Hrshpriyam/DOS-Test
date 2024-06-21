@@ -1,12 +1,10 @@
 # <b>DOSTEST</b> 
 <h2>Http DOSTEST 👑</h2><br>
 
-<img src="https://img.shields.io/badge/Python-3.10+-blue"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen"> <a href="https://taguar258.github.io/Raven-Storm/INSTALLATION"><img src="https://img.shields.io/badge/Download-Now-green"></a>
-
 #
 ## <b>DDOS Attack Script :</b>
 <h3> <b>👽👾<i>DOSTEST</i></b> - most powerful ddos script based on python <br>
-<strong> ✒️ Author :  Harsh Priyam </strong></h3>
+<strong> ✒️ Author :  Gagan | Aditya | Ravinth </strong></h3>
 
 #
 ## <b>Git Installation :</b>
@@ -32,7 +30,7 @@ The application layer is where the server generates the response to an incoming 
 This information fetching and packaging happens on the application layer. An application layer attack occurs when a hacker uses different bots/machines to repeatedly request the same resource from the server, eventually overwhelming it.
 
 The most common type of application layer attacks are the HTTP flood attacks in which malicious actors just keep sending various HTTP requests to a server using different IP addresses. One example of this is asking a server to generate PDF documents over and over again. Since the IP address and other identifiers change in every request, the server can’t detect that it’s being attacked.<br></br>
-<img src="https://github.com/R3DHULK/HULK/blob/main/assets/ddos-app-layer-attack.png?raw=true"> <br></br>
+<img src="https://github.com/Hrshpriyam/DOS-Test/blob/main/assets/ddos-app-layer-attack.png?raw=true"> <br></br>
 
 <b> 2. Protocol attacks </b>
 
